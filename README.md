@@ -1,0 +1,1 @@
+(Date May 2023) LushCubes is my fourth semester project for dataBase course. It is an e-commerce app which contains front-end in html,css,javascript and backend in django. This web contains dynamic data manipulation and sales record witch is managed by sql-Lite dataBase.
